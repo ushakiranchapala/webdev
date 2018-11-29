@@ -1,0 +1,14 @@
+/*h1 {
+	color: #FF0000;
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+}
+li {
+	color: green;
+}
+*/
+p {
+	width: 200px;
+	border: 2px solid blue;
+}
